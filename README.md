@@ -9,7 +9,7 @@ This project consists of managing a ticket request, explaining that the employee
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Ticket reçu dans ServiceNow <br/>
 <img src="https://i.imgur.com/4Tuiudn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
