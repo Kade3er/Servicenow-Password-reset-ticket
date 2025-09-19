@@ -12,6 +12,10 @@ This project consists of managing a ticket request, explaining that the employee
 Received ticket in Servicenow<br/>
 <img src="https://i.imgur.com/4Tuiudn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+Ticket number : INC0010004<br/>
+User : Alejandro Mascall<br/>
+Description : Error message "The password is incorrect"<br/>
+Priority : Low<br/>
 <br />
 Diagnostic  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
