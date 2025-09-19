@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This project consists of managing a ticket request, explaining that the employee lost his password and need a new one.
+This project consists of managing a ticket request, explaining that the employee's password expired and he needs a new one.
 <br />
 
 
@@ -18,7 +18,8 @@ Description : Error message "The password is incorrect"<br/>
 Priority : Low<br/>
 <br />
 Diagnostic  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Checked if the password has expired in active directory<br/>
+Result : the password expired yesterday night<br/>
 <br />
 <br />
 Resolution  <br/>
